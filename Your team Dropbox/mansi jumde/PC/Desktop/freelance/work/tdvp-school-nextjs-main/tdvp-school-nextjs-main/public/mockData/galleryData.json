@@ -1,0 +1,586 @@
+{
+  "schoolLab": [
+    {
+      "id": 1,
+      "image": "/images/gallery/schoolLab/gallery-1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "/images/gallery/schoolLab/gallery-2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "/images/gallery/schoolLab/gallery-3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "/images/gallery/schoolLab/gallery-4.jpg"
+    },
+    {
+      "id": 5,
+      "image": "/images/gallery/schoolLab/gallery-5.jpg"
+    },
+    {
+      "id": 6,
+      "image": "/images/gallery/schoolLab/gallery-6.jpg"
+    },
+    {
+      "id": 7,
+      "image": "/images/gallery/schoolLab/gallery-7.jpg"
+    },
+    {
+      "id": 8,
+      "image": "/images/gallery/schoolLab/gallery-8.jpg"
+    },
+    {
+      "id": 9,
+      "image": "/images/gallery/schoolLab/gallery-9.jpg"
+    },
+    {
+      "id": 10,
+      "image": "/images/gallery/schoolLab/gallery-10.jpg"
+    },
+    {
+      "id": 11,
+      "image": "/images/gallery/schoolLab/gallery-11.jpg"
+    },
+    {
+      "id": 12,
+      "image": "/images/gallery/schoolLab/gallery-12.jpg"
+    },
+    {
+      "id": 13,
+      "image": "/images/gallery/schoolLab/gallery-13.jpg"
+    },
+    {
+      "id": 14,
+      "image": "/images/gallery/schoolLab/gallery-14.jpg"
+    },
+    {
+      "id": 15,
+      "image": "/images/gallery/schoolLab/gallery-15.jpg"
+    },
+    {
+      "id": 16,
+      "image": "/images/gallery/schoolLab/gallery-16.jpg"
+    },
+    {
+      "id": 17,
+      "image": "/images/gallery/schoolLab/gallery-17.jpg"
+    },
+    {
+      "id": 18,
+      "image": "/images/gallery/schoolLab/gallery-18.jpg"
+    },
+    {
+      "id": 19,
+      "image": "/images/gallery/schoolLab/gallery-19.jpg"
+    },
+    {
+      "id": 20,
+      "image": "/images/gallery/schoolLab/gallery-20.jpg"
+    },
+    {
+      "id": 21,
+      "image": "/images/gallery/schoolLab/gallery-21.jpg"
+    },
+    {
+      "id": 22,
+      "image": "/images/gallery/schoolLab/gallery-22.jpg"
+    },
+    {
+      "id": 23,
+      "image": "/images/gallery/schoolLab/gallery-23.jpg"
+    },
+    {
+      "id": 24,
+      "image": "/images/gallery/schoolLab/gallery-24.jpg"
+    },
+    {
+      "id": 25,
+      "image": "/images/gallery/schoolLab/gallery-25.jpg"
+    },
+    {
+      "id": 26,
+      "image": "/images/gallery/schoolLab/gallery-26.jpg"
+    },
+    {
+      "id": 27,
+      "image": "/images/gallery/schoolLab/gallery-27.jpg"
+    },
+    {
+      "id": 28,
+      "image": "/images/gallery/schoolLab/gallery-28.jpg"
+    },
+    {
+      "id": 29,
+      "image": "/images/gallery/schoolLab/gallery-29.jpg"
+    }
+  ],
+
+  "talentDay": [
+    {
+      "id": 1,
+      "image": "/images/gallery/talentDay/gallery-1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "/images/gallery/talentDay/gallery-2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "/images/gallery/talentDay/gallery-3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "/images/gallery/talentDay/gallery-4.jpg"
+    },
+    {
+      "id": 5,
+      "image": "/images/gallery/talentDay/gallery-5.jpg"
+    },
+    {
+      "id": 6,
+      "image": "/images/gallery/talentDay/gallery-6.jpg"
+    },
+    {
+      "id": 7,
+      "image": "/images/gallery/talentDay/gallery-7.jpg"
+    },
+    {
+      "id": 8,
+      "image": "/images/gallery/talentDay/gallery-8.jpg"
+    },
+    {
+      "id": 9,
+      "image": "/images/gallery/talentDay/gallery-9.jpg"
+    },
+    {
+      "id": 10,
+      "image": "/images/gallery/talentDay/gallery-10.jpg"
+    },
+    {
+      "id": 11,
+      "image": "/images/gallery/talentDay/gallery-11.jpg"
+    },
+    {
+      "id": 12,
+      "image": "/images/gallery/talentDay/gallery-12.jpg"
+    },
+    {
+      "id": 13,
+      "image": "/images/gallery/talentDay/gallery-13.jpg"
+    },
+    {
+      "id": 14,
+      "image": "/images/gallery/talentDay/gallery-14.jpg"
+    },
+    {
+      "id": 15,
+      "image": "/images/gallery/talentDay/gallery-15.jpg"
+    },
+    {
+      "id": 16,
+      "image": "/images/gallery/talentDay/gallery-16.jpg"
+    },
+    {
+      "id": 17,
+      "image": "/images/gallery/talentDay/gallery-17.jpg"
+    },
+    {
+      "id": 18,
+      "image": "/images/gallery/talentDay/gallery-18.jpg"
+    },
+    {
+      "id": 19,
+      "image": "/images/gallery/talentDay/gallery-19.jpg"
+    },
+    {
+      "id": 20,
+      "image": "/images/gallery/talentDay/gallery-20.jpg"
+    },
+    {
+      "id": 21,
+      "image": "/images/gallery/talentDay/gallery-21.jpg"
+    },
+    {
+      "id": 22,
+      "image": "/images/gallery/talentDay/gallery-22.jpg"
+    },
+    {
+      "id": 23,
+      "image": "/images/gallery/talentDay/gallery-23.jpg"
+    },
+    {
+      "id": 24,
+      "image": "/images/gallery/talentDay/gallery-24.jpg"
+    },
+    {
+      "id": 25,
+      "image": "/images/gallery/talentDay/gallery-25.jpg"
+    },
+    {
+      "id": 26,
+      "image": "/images/gallery/talentDay/gallery-26.jpg"
+    },
+    {
+      "id": 27,
+      "image": "/images/gallery/talentDay/gallery-27.jpg"
+    },
+    {
+      "id": 28,
+      "image": "/images/gallery/talentDay/gallery-28.jpg"
+    },
+    {
+      "id": 29,
+      "image": "/images/gallery/talentDay/gallery-29.jpg"
+    },
+    {
+      "id": 30,
+      "image": "/images/gallery/talentDay/gallery-30.jpg"
+    },
+    {
+      "id": 31,
+      "image": "/images/gallery/talentDay/gallery-31.jpg"
+    },
+    {
+      "id": 32,
+      "image": "/images/gallery/talentDay/gallery-32.jpg"
+    }
+  ],
+
+  "independenceDay": [
+    {
+      "id": 1,
+      "image": "/images/gallery/independenceDay/gallery-1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "/images/gallery/independenceDay/gallery-2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "/images/gallery/independenceDay/gallery-3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "/images/gallery/independenceDay/gallery-4.jpg"
+    },
+    {
+      "id": 5,
+      "image": "/images/gallery/independenceDay/gallery-5.jpg"
+    },
+    {
+      "id": 6,
+      "image": "/images/gallery/independenceDay/gallery-6.jpg"
+    },
+    {
+      "id": 7,
+      "image": "/images/gallery/independenceDay/gallery-7.jpg"
+    },
+    {
+      "id": 8,
+      "image": "/images/gallery/independenceDay/gallery-8.jpg"
+    },
+    {
+      "id": 9,
+      "image": "/images/gallery/independenceDay/gallery-9.jpg"
+    },
+    {
+      "id": 10,
+      "image": "/images/gallery/independenceDay/gallery-10.jpg"
+    },
+    {
+      "id": 11,
+      "image": "/images/gallery/independenceDay/gallery-11.jpg"
+    },
+    {
+      "id": 12,
+      "image": "/images/gallery/independenceDay/gallery-12.jpg"
+    },
+    {
+      "id": 13,
+      "image": "/images/gallery/independenceDay/gallery-13.jpg"
+    },
+    {
+      "id": 14,
+      "image": "/images/gallery/independenceDay/gallery-14.jpg"
+    },
+    {
+      "id": 15,
+      "image": "/images/gallery/independenceDay/gallery-15.jpg"
+    },
+    {
+      "id": 16,
+      "image": "/images/gallery/independenceDay/gallery-16.jpg"
+    },
+    {
+      "id": 17,
+      "image": "/images/gallery/independenceDay/gallery-17.jpg"
+    },
+    {
+      "id": 18,
+      "image": "/images/gallery/independenceDay/gallery-18.jpg"
+    },
+    {
+      "id": 19,
+      "image": "/images/gallery/independenceDay/gallery-19.jpg"
+    }
+  ],
+
+  "eventsAndCelebration": [
+    {
+      "id": 1,
+      "image": "/images/gallery/eventsAndCelebration/gallery-1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "/images/gallery/eventsAndCelebration/gallery-2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "/images/gallery/eventsAndCelebration/gallery-3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "/images/gallery/eventsAndCelebration/gallery-4.jpg"
+    },
+    {
+      "id": 5,
+      "image": "/images/gallery/eventsAndCelebration/gallery-5.jpg"
+    },
+    {
+      "id": 6,
+      "image": "/images/gallery/eventsAndCelebration/gallery-6.jpg"
+    },
+    {
+      "id": 7,
+      "image": "/images/gallery/eventsAndCelebration/gallery-7.jpg"
+    },
+    {
+      "id": 8,
+      "image": "/images/gallery/eventsAndCelebration/gallery-8.jpg"
+    },
+    {
+      "id": 9,
+      "image": "/images/gallery/eventsAndCelebration/gallery-9.jpg"
+    },
+    {
+      "id": 10,
+      "image": "/images/gallery/eventsAndCelebration/gallery-10.jpg"
+    },
+    {
+      "id": 11,
+      "image": "/images/gallery/eventsAndCelebration/gallery-11.jpg"
+    },
+    {
+      "id": 12,
+      "image": "/images/gallery/eventsAndCelebration/gallery-12.jpg"
+    },
+    {
+      "id": 13,
+      "image": "/images/gallery/eventsAndCelebration/gallery-13.jpg"
+    },
+    {
+      "id": 14,
+      "image": "/images/gallery/eventsAndCelebration/gallery-14.jpg"
+    },
+    {
+      "id": 15,
+      "image": "/images/gallery/eventsAndCelebration/gallery-15.jpg"
+    },
+    {
+      "id": 16,
+      "image": "/images/gallery/eventsAndCelebration/gallery-16.jpg"
+    }
+  ],
+
+  "dadiMaaKikahani": [
+    {
+      "id": 1,
+      "image": "/images/gallery/dadiMaaKikahani/gallery-1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "/images/gallery/dadiMaaKikahani/gallery-2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "/images/gallery/dadiMaaKikahani/gallery-3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "/images/gallery/dadiMaaKikahani/gallery-4.jpg"
+    },
+    {
+      "id": 5,
+      "image": "/images/gallery/dadiMaaKikahani/gallery-5.jpg"
+    },
+    {
+      "id": 6,
+      "image": "/images/gallery/dadiMaaKikahani/gallery-6.jpg"
+    },
+    {
+      "id": 7,
+      "image": "/images/gallery/dadiMaaKikahani/gallery-7.jpg"
+    },
+    {
+      "id": 8,
+      "image": "/images/gallery/dadiMaaKikahani/gallery-8.jpg"
+    },
+    {
+      "id": 9,
+      "image": "/images/gallery/dadiMaaKikahani/gallery-9.jpg"
+    },
+    {
+      "id": 10,
+      "image": "/images/gallery/dadiMaaKikahani/gallery-10.jpg"
+    },
+    {
+      "id": 11,
+      "image": "/images/gallery/dadiMaaKikahani/gallery-11.jpg"
+    },
+    {
+      "id": 12,
+      "image": "/images/gallery/dadiMaaKikahani/gallery-12.jpg"
+    },
+    {
+      "id": 13,
+      "image": "/images/gallery/dadiMaaKikahani/gallery-13.jpg"
+    },
+    {
+      "id": 14,
+      "image": "/images/gallery/dadiMaaKikahani/gallery-14.jpg"
+    },
+    {
+      "id": 15,
+      "image": "/images/gallery/dadiMaaKikahani/gallery-15.jpg"
+    }
+  ],
+
+  "annualFunction": [
+    {
+      "id": 1,
+      "image": "/images/gallery/annualFunction/gallery-1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "/images/gallery/annualFunction/gallery-2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "/images/gallery/annualFunction/gallery-3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "/images/gallery/annualFunction/gallery-4.jpg"
+    },
+    {
+      "id": 5,
+      "image": "/images/gallery/annualFunction/gallery-5.jpg"
+    },
+    {
+      "id": 6,
+      "image": "/images/gallery/annualFunction/gallery-6.jpg"
+    },
+    {
+      "id": 7,
+      "image": "/images/gallery/annualFunction/gallery-7.jpg"
+    },
+    {
+      "id": 8,
+      "image": "/images/gallery/annualFunction/gallery-8.jpg"
+    },
+    {
+      "id": 9,
+      "image": "/images/gallery/annualFunction/gallery-9.jpg"
+    },
+    {
+      "id": 10,
+      "image": "/images/gallery/annualFunction/gallery-10.jpg"
+    },
+    {
+      "id": 11,
+      "image": "/images/gallery/annualFunction/gallery-11.jpg"
+    },
+    {
+      "id": 12,
+      "image": "/images/gallery/annualFunction/gallery-12.jpg"
+    },
+    {
+      "id": 13,
+      "image": "/images/gallery/annualFunction/gallery-13.jpg"
+    }
+  ],
+
+  "news": [
+    {
+      "id": 1,
+      "image": "/images/gallery/news/gallery-1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "/images/gallery/news/gallery-2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "/images/gallery/news/gallery-3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "/images/gallery/news/gallery-4.jpg"
+    },
+    {
+      "id": 5,
+      "image": "/images/gallery/news/gallery-5.jpg"
+    },
+    {
+      "id": 6,
+      "image": "/images/gallery/news/gallery-6.jpg"
+    },
+    {
+      "id": 7,
+      "image": "/images/gallery/news/gallery-7.jpg"
+    },
+    {
+      "id": 8,
+      "image": "/images/gallery/news/gallery-8.jpg"
+    },
+    {
+      "id": 9,
+      "image": "/images/gallery/news/gallery-9.jpg"
+    },
+    {
+      "id": 10,
+      "image": "/images/gallery/news/gallery-10.jpg"
+    },
+    {
+      "id": 11,
+      "image": "/images/gallery/news/gallery-11.jpg"
+    },
+    {
+      "id": 13,
+      "image": "/images/gallery/news/gallery-13.jpg"
+    },
+    {
+      "id": 12,
+      "image": "/images/gallery/news/gallery-12.jpg"
+    },
+    {
+      "id": 14,
+      "image": "/images/gallery/news/gallery-14.jpg"
+    },
+    {
+      "id": 15,
+      "image": "/images/gallery/news/gallery-15.jpg"
+    },
+    {
+      "id": 16,
+      "image": "/images/gallery/news/gallery-16.jpg"
+    },
+    {
+      "id": 17,
+      "image": "/images/gallery/news/gallery-17.jpg"
+    }
+  ]
+}
